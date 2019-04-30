@@ -1,11 +1,12 @@
 package cr8.rrch.parimparenjava;
 
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
+import
+        android.os.Bundle;
 import android.view.View;
-import android.widget.TextView;
+import android.widget.TextView;                 4654652225588
 
-public class MainActivity extends AppCompatActivity {
+public c  okilass MainActivity extends AppCompatActivity {
     private TextView tv1;
     private TextView tv2;
     private TextView tv3;
